@@ -1,0 +1,25 @@
+div .navbar-nav{
+    margin-left: 73%;
+    color: black;
+}
+.one{
+    background-color:rgb(2, 2, 51);
+    margin-left: 2%;
+}
+.two{
+    border: 50px solid white;
+    text-align: center;
+}
+h3.three{
+    color: white;
+    cursor: pointer;
+}
+h3.three:hover {
+    color: yellow;
+  }
+.four{
+    color: peru;
+}
+.five{
+    color: rgb(105, 115, 122);
+}
