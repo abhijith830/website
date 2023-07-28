@@ -23,3 +23,16 @@ h3.three:hover {
 .five{
     color: rgb(105, 115, 122);
 }
+.six{
+    background-color:hsl(5,85%, 63%);
+    color: white;
+    border: 10px solid white;
+    padding: 3%;
+    font-size: large;
+    font-weight: 600;
+    letter-spacing: 4px;
+ }
+ .six:hover{
+     background-color: rgb(2, 2, 51); 
+ }
+ 
