@@ -35,4 +35,6 @@ h3.three:hover {
  .six:hover{
      background-color: rgb(2, 2, 51); 
  }
- 
+ .seven ul a:hover{
+    color: rgb(206, 100, 24);
+ }
