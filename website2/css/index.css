@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(255, 200, 80) !important;
+}
+.colr{
+    background-color: rgb(210,81,30);
+}
+.pro{
+    margin-top: 50%;
+    padding: 10%;
+    text-align: center;
+    color: azure;
+}
+.mo{
+    text-align: center;
+    font-weight: 600;
+    font-size: 24px;
+}
+.share{
+    text-align: center;
+    color: azure;
+}
+.ui{
+    color: azure;
+}
+
+.col2{
+    background-color: white;
+}
+.thomas{
+    font-weight: 400;
+}
+.post{
+    font-size: 28px;
+    color: rgb(152,89,44);
+}
+.extra{
+    font-weight: 600;
+}
+.button{
+   padding-left: 42%;
+   padding-right: 42%;
+   padding-top: 10px;
+   padding-bottom: 10px; 
+   text-align: center;
+   border: 1px solid coral;
+   border-radius: 20px;
+   background-color: white;
+}
+.charge{
+    color: coral;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 250px;
+}
+.one{
+    padding-bottom: 40px;
+    padding-top: 2px;
+}
+input.f1{
+    border-radius: 50px;
+    background-color: rgb(217, 223, 223);
+    padding-right: 10%;
+}
+.two{
+    padding-top: 120px;
+}
