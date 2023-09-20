@@ -22,7 +22,6 @@
 #     print("Isosceles Triangle")
 
 a="vijay"
-b=[]
-for i in a:
-    b.append(i)
-print(b)
+print (a[:1])
+print(a[1:])
+print(a[::-1])
